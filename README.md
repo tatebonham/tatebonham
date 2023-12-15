@@ -1,5 +1,1 @@
-- 👋 Hey, I’m Tate Bonham, a full stack software engineer
-- 👀 I have experience in HTML, CSS, JavaScript, React, Python, Node.js, MongoDB, postgresSQL, Express, C++
-- 🌱 I’m currently growing my skills in Python and C++
-- 💞️ I’m looking to collaborate on full-stack web apps and joint problem solving
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tate-bonham/) or ✉️ tatebonham@gmail.com
